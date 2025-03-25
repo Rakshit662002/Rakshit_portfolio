@@ -86,7 +86,7 @@ Portfolio/
 ## **📩 Contact Me**
 📧 **Email:** rakshit2002.rt@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-💻 **GitHub:**[ [github.com/your-username][(https://github.com/Rakshit662002)]
+💻 **GitHub:**  [(https://github.com/Rakshit662002)]
 
 ---
 
