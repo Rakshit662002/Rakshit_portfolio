@@ -33,7 +33,7 @@
 ---
 
 ## **🚀 Live Demo**
-🔗 _(Add your deployed website link here)_  
+🔗 https://rakshitportfolio.netlify.app/ 
 
 ---
 
